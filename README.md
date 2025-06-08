@@ -1,8 +1,10 @@
 ![MasterHead](https://camo.githubusercontent.com/069e3ef2850e722ccaef748bf8cdadafeed9fd4a9ee1436daebd7e820f4402a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)
 
-<h1 align="center">
-  <img src="GIF/Earth.gif" width="24px"/>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜, I'm Ghosh, Manjeet Ghosh/&gt;!
+<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+
+<h1 align="center" style="font-family: 'Poppins', sans-serif;">
+  <img src="Earth.gif" width="24px"/>
+  𝐇𝐞𝐥𝐥𝐨, people, I'm Ghosh, Manjeet Ghosh
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
