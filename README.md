@@ -36,14 +36,6 @@ Here are some of the technologies I've worked with:
 **Technologies & Tools:**
 
 
-<p>
-  <a href="https://github.com/mtahiraslan/">
-    <img width="55%" align="right" alt="Mehmet Tahir's github stats" src="https://github-readme-stats.vercel.app/api?username=mtahiraslan&theme=default&hide_border=false&include_all_commits=true&count_private=false" />
-  </a>
- 
-  <a>
-    <img width="55%" align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtahiraslan&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-  </a>
 
   <code><img width="100" height="60" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
   <code><img width="100" height="60" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
@@ -76,10 +68,22 @@ Here are some of the technologies I've worked with:
   <code><img width="100" height="60" src="https://www.svgrepo.com/show/354427/tableau.svg"></code>
   <code><img width="100" height="60" src="https://www.svgrepo.com/show/354242/qlik.svg"></code>
   <code><img width="100" height="60" src="https://logowik.com/content/uploads/images/azure-data-factory2539.jpg"></code>
-</p>
+
 
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/mtahiraslan/mtahiraslan.svg" />
+</p>
+
+<h2 align="center"><img src="screenshot.gif"></h2>
+
+<p>
+  <a href="https://github.com/mtahiraslan/">
+    <img align="center" alt="Mehmet Tahir's github stats" src="https://github-readme-stats.vercel.app/api?username=mtahiraslan&theme=default&hide_border=false&include_all_commits=true&count_private=false" />
+  </a>
+ 
+  <a>
+    <img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtahiraslan&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  </a>
 </p>
 
 # 💻 Tech Stack:
