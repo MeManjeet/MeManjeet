@@ -30,7 +30,7 @@ Here are some of the technologies I've worked with:
     </div>
   </div>
     <ul>
-      <li><strong>Programming Languages:</strong> Python, SQL</li>
+      <li><strong>Programming Languages:</strong> Python, SQL, Excel</li>
       <li><strong>Databases:</strong> PostgreSQL, MySQL, MongoDB</li>
       <li><strong>Big Data Technologies:</strong> Snowflake, Cassandra</li>
       <li><strong>Domain Knowledge:</strong> Machine Learning, Statistics, NLP, Time Series</li>
