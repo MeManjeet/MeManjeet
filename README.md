@@ -20,6 +20,18 @@
 
 I'm a data-driven, aspiring data analyst and ML enthusiast with expertise in Python, SQL, Machine Learning, and data visualization tools. I have hands-on experience in data-driven decision-making, delivering actionable insights, and optimizing performance.
 
+Here are some of the technologies I've worked with:
+
+
+  * **Programming Languages:** Python, SQL
+  * **Databases:** PostgreSQL, MySQL, MongoDB
+  * **Big Data Technologies:** Snowflake, Cassandra
+  * **Domain Knowledge:** Machine Learning, Statistics, NLP, Time Series
+  * **Frameworks:** Pandas, NumPy, SkLearn, Matplotlib, PyTorch, Keras, Tensorflow, and others
+  * **DevOps Tools:** Docker
+  * **Version Control:** Git, Github
+  * **Project Management:** Jira
+  * **Data Visualization/BI Tools:** Microsoft Power BI, Tableau
 ---
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
@@ -65,7 +77,7 @@ I'm a data-driven, aspiring data analyst and ML enthusiast with expertise in Pyt
 
 <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/0499a9d17248b0ef56dae9a63b09b16cc07d7a02f579fdc0a7cb81975dafbebb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
-- 🔭 I’m currently working on **Complex Machine Learning and Deep Learning Algorithms.**  
+- 🔭 I’m currently working on **more Complex Machine Learning and Deep Learning Algorithms.**  
 - 🌱 I’m learning **DevOps and Deployment.**  
 - 👯 I’m looking to collaborate on **Data Analytics, Data Science, or Machine Learning projects.**  
 - ⚡ Fun fact: **Best part of the journey is: *It Ends*.**  
@@ -83,13 +95,12 @@ I'm a data-driven, aspiring data analyst and ML enthusiast with expertise in Pyt
   <a>
     <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeManjeet&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
   </a>
+  <a>
+    <img align="center" alt="Top Languages" src="https://github-readme-activity-graph.vercel.app/graph?username=MeManjeet&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  </a>
 </p>
 
----
 
-<p align="center">
-  <img alt="GitHub Activity Snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</p>
 
 ---
 
