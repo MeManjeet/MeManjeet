@@ -23,15 +23,26 @@ I'm a data-driven, aspiring data analyst and ML enthusiast with expertise in Pyt
 Here are some of the technologies I've worked with:
 
 
-  * **Programming Languages:** Python, SQL
-  * **Databases:** PostgreSQL, MySQL, MongoDB
-  * **Big Data Technologies:** Snowflake, Cassandra
-  * **Domain Knowledge:** Machine Learning, Statistics, NLP, Time Series
-  * **Frameworks:** Pandas, NumPy, SkLearn, Matplotlib, PyTorch, Keras, Tensorflow, and others
-  * **DevOps Tools:** Docker
-  * **Version Control:** Git, Github
-  * **Project Management:** Jira
-  * **Data Visualization/BI Tools:** Microsoft Power BI, Tableau
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div>
+    <div>
+    <img src="main_image.png" height="180px" align="right" style="margin-left: 20px;" />
+    </div>
+  </div>
+    <ul>
+      <li><strong>Programming Languages:</strong> Python, SQL</li>
+      <li><strong>Databases:</strong> PostgreSQL, MySQL, MongoDB</li>
+      <li><strong>Big Data Technologies:</strong> Snowflake, Cassandra</li>
+      <li><strong>Domain Knowledge:</strong> Machine Learning, Statistics, NLP, Time Series</li>
+      <li><strong>Frameworks:</strong> Pandas, NumPy, SkLearn, Matplotlib, PyTorch, Keras, Tensorflow, and others</li>
+      <li><strong>DevOps Tools:</strong> Docker</li>
+      <li><strong>Version Control:</strong> Git, Github</li>
+      <li><strong>Project Management:</strong> Jira</li>
+      <li><strong>Data Visualization/BI Tools:</strong> Microsoft Power BI, Tableau</li>
+    </ul>
+  </div>
+
+
 ---
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
