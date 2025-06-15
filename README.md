@@ -91,7 +91,7 @@ Here are some of the technologies I've worked with:
 - 🔭 I’m currently working on **more Complex Machine Learning and Deep Learning Algorithms.**  
 - 🌱 I’m learning **DevOps and Deployment.**  
 - 👯 I’m looking to collaborate on **Data Analytics, Data Science, or Machine Learning projects.**  
-- ⚡ Fun fact: **Best part of the journey is: *It Ends*.**  
+- ⚡ Fun fact: **Best part of the journey is: *It never Ends. It just goes on*.** 
 - 💬 Ask me about anything, I am happy to help.  
 - 📫 Reach me at: **ghosh.manjeet.99@gmail.com**
 
